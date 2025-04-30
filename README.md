@@ -1,5 +1,15 @@
 # React Project Initialization
+###Installation
 
+```
+npm install
+```
+```
+cd first-react
+```
+```
+npm run dev
+```
 
 # React + Vite
 
