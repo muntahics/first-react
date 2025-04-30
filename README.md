@@ -1,5 +1,5 @@
 # React Project Initialization
-###Installation
+### Installation
 
 ```
 npm install
