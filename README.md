@@ -1,4 +1,4 @@
-<img src="src/assets/image.png" width="50px"/> # React Project Initialization
+<img src="src/assets/react-logo.png" width="50px"/> # React Project Initialization
 ### Installation
 
 ```
