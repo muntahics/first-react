@@ -1,4 +1,4 @@
-<img src="src/assets/react-logo.png" width="50px"/ style="display: flex"> <h1 style="display: flex">React Project Initialization</h1>
+<img src="src/assets/react-logo.png" width="50px" style="display: flex" /> <h1 style="display: flex">React Project Initialization</h1>
 ### Installation
 
 ```
