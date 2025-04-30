@@ -5,10 +5,10 @@
 git clone https://github.com/muntahics/first-react.git
 ```
 ```
-npm install
-```
-```
 cd first-react
+```
+```
+npm install
 ```
 ```
 npm run dev
