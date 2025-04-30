@@ -2,6 +2,9 @@
 ### Installation
 
 ```
+git clone https://github.com/muntahics/first-react.git
+```
+```
 npm install
 ```
 ```
